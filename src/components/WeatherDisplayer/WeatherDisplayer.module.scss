@@ -1,0 +1,27 @@
+.dayList {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  overflow: auto;
+}
+
+.wrapper{
+  background: url(https://somnomed.com/wp-content/uploads/2017/09/night-sky-2.jpg);
+  background-size: cover;
+  height: 100vh;
+}
+
+.cityInputWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.changeCityTitle {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-right: 20px;
+}
