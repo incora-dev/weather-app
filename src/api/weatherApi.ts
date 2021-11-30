@@ -13,7 +13,7 @@ export const getWeather = (location: { lon: number, lat: number, city: string })
     },
     headers: {
       'x-rapidapi-host': 'weatherbit-v1-mashape.p.rapidapi.com',
-      'x-rapidapi-key': '7c9aed37cdmsh967642cddb01f2ep15e8efjsn670aa6bc97c1'
+      'x-rapidapi-key': 'fa7d93a9ddmshdcfaad790337bc9p1a08c9jsn918fbdcc2aaa'
     }
   };
 
